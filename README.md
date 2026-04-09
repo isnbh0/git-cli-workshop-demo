@@ -11,8 +11,8 @@ Follow the workshop docs to learn each concept, then practice here.
 워크숍 문서를 따라 각 개념을 배우고, 여기에서 연습하세요.
 
 📖 **Workshop Docs / 워크숍 문서:**
-- [English](https://github.com/isnbh0/git-cli-workshop/tree/main/en)
-- [한국어](https://github.com/isnbh0/git-cli-workshop/tree/main/ko)
+- English: [macOS](https://github.com/isnbh0/git-cli-workshop/tree/main/en/macos) · [Windows](https://github.com/isnbh0/git-cli-workshop/tree/main/en/windows)
+- 한국어: [macOS](https://github.com/isnbh0/git-cli-workshop/tree/main/ko/macos) · [Windows](https://github.com/isnbh0/git-cli-workshop/tree/main/ko/windows)
 
 ## Files / 파일
 
